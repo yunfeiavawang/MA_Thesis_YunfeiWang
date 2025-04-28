@@ -11,7 +11,7 @@ This repository contains the data and code supporting the thesis titled **"Onlin
 
 Online mutual support communities provide vital spaces for individuals to seek guidance, share experiences, and engage in collective discourse. Using a large-scale dataset collected from the Douban group "Women in Academia," this research identifies prevalent discussion topics and explores factors influencing user engagement using computational text analysis, sentiment analysis, and network-based modeling approaches. The study contributes to understanding online feminist discourse, digital engagement mechanisms, and network structures within female-oriented communities.
 
-For detailed information and findings, please refer to the [complete thesis document](paper folder link).(Latex format see [Overleaf](https://www.overleaf.com/project/671ec5e1cd1d69d56b6e9f7e).)
+For detailed information and findings, please refer to the [complete thesis document](https://github.com/yunfeiavawang/MA_Thesis_YunfeiWang/blob/main/paper/MACSS_MA___Yunfei_Wang.pdf).(Latex format see [Overleaf](https://www.overleaf.com/project/671ec5e1cd1d69d56b6e9f7e).)
 
 ## Repository Structure
 
